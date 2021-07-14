@@ -1,4 +1,4 @@
-![image](https://github.com/aygunoz/aygunoz/blob/0b6e85ee0879621559290222cf3b90d97bd7fc03/giphy-3.gif)
+![image](https://github.com/aygunoz/aygunoz/blob/d633e9a2513dfaf7264ba97c008b064fe2e334cd/dino.gif)
 
 
 <!--
